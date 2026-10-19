@@ -1,0 +1,10 @@
+streamlit>=1.40
+streamlit-lottie
+python-docx
+pandas
+plotly
+pillow
+PyPDF2
+sqlalchemy
+openpyxl
+requests
